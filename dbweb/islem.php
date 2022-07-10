@@ -17,7 +17,6 @@ $sql ="SELECT * FROM information";
 $sorgu = $baglan->prepare($sql);
 $sorgu->execute();
 
-
 ?>
 <!DOCTYPE html>
 <html lang="tr">
